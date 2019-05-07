@@ -1,6 +1,6 @@
 # Onlinejobs.PH Crawler
 
-
+<a href="https://codeclimate.com/github/Firiyuu/scrapy-onlinejobs/maintainability"><img src="https://api.codeclimate.com/v1/badges/d7ee4a78d6dd304600ee/maintainability" /></a>
 
 
 ## Usage
